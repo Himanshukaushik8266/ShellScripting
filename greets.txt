@@ -1,0 +1,6 @@
+"Hey!"
+"Hi!"
+"Hola!"
+"Good Morning!"
+"Good Evening!"
+"How are you doing?"
